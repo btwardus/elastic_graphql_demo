@@ -1,0 +1,5 @@
+# add default paths to .gitignore for java and intellij
+.idea/
+build/
+/.gradle/
+.env
